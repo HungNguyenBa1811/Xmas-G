@@ -65,7 +65,7 @@
     position: relative;
     z-index: 2;
     background-image: url("./img/duong.jpg");
-    color: var(--black-color);
+    color: var(--white-color);
     font-weight: 600;
     /* display: flex;
     flex-direction: column;
